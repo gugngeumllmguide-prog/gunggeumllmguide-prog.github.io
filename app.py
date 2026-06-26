@@ -12,7 +12,7 @@ from datetime import datetime
 
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 model_id = "gemini-3.5-flash"
 
 
