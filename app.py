@@ -566,5 +566,5 @@ if __name__ == "__main__":
     print("[서버] 지식베이스 로딩 중...")
     fetch_gung_data()
     load_local_element_kb()
-    print("[서버] 준비 완료 — https://carefully-deceptive-unbutton.ngrok-free.dev")
-    app.run(host="0.0.0.0", port=8000, debug=False)
+    # print("[서버] 준비 완료 — https://carefully-deceptive-unbutton.ngrok-free.dev")
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8000)), debug=False)
