@@ -24,8 +24,8 @@ LOCAL_KB_FILE = "local_kb.json"
 _kb_cache = None
 _local_kb = None
 
-IMAGE_DIR = r"C:\Users\user\Desktop\log_images"
-AUDIO_BASE_DIR = r"C:\Users\user\Desktop\AIR_data"
+IMAGE_DIR = "/tmp/log_images"
+AUDIO_BASE_DIR = "/tmp/AIR_data"
 
 LOG_FILE = os.path.join(AUDIO_BASE_DIR, "user_study_log.csv")
 
