@@ -1,0 +1,17 @@
+gung_number :궁 번호
+1: 경복궁,  2: 창덕궁,  3: 창경궁,  4: 덕수궁,  5: 종묘
+
+gung_name : 궁 이름
+detail_code: 세부코드
+contents_kor : 국가유산명
+explanation_kor : 국가유산 설명
+imgUrl : 이미지 경로
+moving : 동영상 경로
+
+
+
+pip install langchain
+pip install langchain-google-genai
+pip install google-generativeai
+pip install coqui-tts
+pip install transformers==4.33.0

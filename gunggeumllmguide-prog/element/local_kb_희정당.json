@@ -1,0 +1,68 @@
+
+[
+
+   {
+    "name": "중앙 건물",
+    "category": "건물",
+    "locations": "희정당",
+    "side" : "중앙",
+    "keywords": ["희정당", "중앙건물", "가운데건물"],
+    "reference" : ["근대 창덕궁 주요 전각의 공간과 장식 특성"],
+    "description": "희정당의 중앙의 건물은 접견실로 사용되었다. 양판 여닫이문을 설치하여 공간의 기능을 구분하고, 고정식 가구들을 배치하여 공간의 성격을 명확히 하였다. "
+    },
+  {
+    "name": "서행각",
+    "category": "건물",
+    "locations": "희정당",
+    "side" : "서쪽",
+    "keywords": ["희정당", "서쪽 건물", "서행각"],
+    "reference" : ["근대 창덕궁 주요 전각의 공간과 장식 특성"],
+    "description": "희정당의 서행각은 회의실과 식당으로 사용되었다. 양판 여닫이문을 설치하여 공간의 기능을 구분하고, 고정식 가구들을 배치하여 공간의 성격을 명확히 하였다. "
+    },
+  {
+    "name": "동행각",
+    "category": "건물",
+    "locations": "희정당",
+    "side" : "동쪽",
+    "keywords": ["희정당", "동쪽건물", "동행각"],
+    "reference" : ["근대 창덕궁 주요 전각의 공간과 장식 특성"],
+    "description": "희정당의 동행각은 귀빈실로 사용되었다. 양판 여닫이문을 설치하여 공간의 기능을 구분하고, 고정식 가구들을 배치하여 공간의 성격을 명확히 하였다. "
+    },
+   {
+    "name": "팔작지붕",
+    "category": "지붕",
+    "locations": "희정당",
+    "side" : "외부",
+    "keywords": ["지붕", "팔작지붕"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%ED%9D%AC%EC%A0%95%EB%8B%B9&searchCondition2=&ccbaKdcd=12&ccbaAsno=0008150000000&ccbaCtcd=11&ccbaCpno=1121108150000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_0_0&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": " 희정당의 지붕은 옆면에서 볼 때 여덟 팔자 모양을 한 팔작지붕으로 꾸몄다. "
+    },
+   {
+    "name": "금강산총석정절경도",
+    "category": "벽화",
+    "locations": "희정당",
+    "side" : "내부",
+    "keywords": ["벽화" , "총석정"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%ED%9D%AC%EC%A0%95%EB%8B%B9&searchCondition2=&ccbaKdcd=79&ccbaAsno=0002400000000&ccbaCtcd=11&ccbaCpno=4411102400000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_0_0&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": "금강산총석정절경도는 해강 김규진에 의해 1920년경 제작되어 희정당 벽에 부착되었던 벽화. 금강산 총석정의 파노라믹한 승경을 전통 궁중화법에 근대적 화법을 절충하여 그린 그림이다."
+    },
+  {
+    "name": "금강산만물초승경도",
+    "category": "벽화",
+    "locations": "희정당",
+    "side" : "내부",
+    "keywords": ["벽화" , "산", "금강산"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%ED%9D%AC%EC%A0%95%EB%8B%B9&searchCondition2=&ccbaKdcd=79&ccbaAsno=0002410000000&ccbaCtcd=11&ccbaCpno=4411102410000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_0_0&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": "금강산만물초승경도는 해강 김규진에 의해 1920년경 제작되어 희정당 벽에 부착되었던 벽화. 금강산의 기세와 빼어난 절경을 전통 궁중화법과 근대적 화법을 절충하여 그린 그림이다."
+    },
+  {
+    "name": "착고판",
+    "category": "착고판",
+    "locations": "희정당",
+    "side" : "지붕",
+    "keywords": ["착고판", "연꽃"],
+    "reference" : ["https://www.culture.go.kr/portal/cltKnw/usePtt/viewOrigin.do?menuNo=200059&did=60307&reffer=&pGubun=null","https://www.kculture.or.kr/brd/board/388/L/menu/443?brdType=&bbIdx=478&searchCategory5=366&searchCategory=&rootCate=282&searchField=titlecontent&searchText=%EC%B0%BD%EB%8D%95%EA%B6%81"],
+    "description": "창덕궁 희정당 착고판은 연꽃과 덩굴을 간략한 모습으로 그려 넣었다. 연꽃은 덩굴과 함께 장식문양으로 사용하였는데 아름다움과 함께 생명, 여유로움 등을 의미한다. 연꽃은 마치 연꽃봉오리와 같은 모습이다. 또 다른 연꽃은 덩굴 속에서 피어나서 마치 구름과 같은 모습으로 보인다. 연꽃의 아래쪽으로 두 줄의 덩굴이 있으며 연꽃봉오리를 더하여 표현하였다"
+    }
+
+]

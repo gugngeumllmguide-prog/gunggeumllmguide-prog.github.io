@@ -1,0 +1,107 @@
+
+[
+
+   {
+    "name": "행각",
+    "category": "건물",
+    "locations": "인정전",
+    "side" : "",
+    "keywords": ["행각"],
+    "reference" : "근대 창덕궁 주요 전각의 공간과 장식 특성",
+    "description": "인정전의 행각은 전각 형태로 개조되었고, 복도가 신설되었다.  조선의 인정전이 현관 인정문(仁政門)과 행각으로 둘러싸인 마당 가운데 위치했다면, 개조된 인정전은 인정전, 행각, 현관, 복도가 하나의 동선으로 연결되었다. 과거의 인정전에서는 찾아볼 수 없었던 새로운 기능의 공간이 마련되고, 공간을 연결하여 동선을 원활하게 한 것은 순종과의 접견을 순조롭게 하기 위함이었다. "
+    },
+
+   {
+    "name": "행각의 홑처마",
+    "category": "처마",
+    "locations": "인정전",
+    "side" : "건물",
+    "keywords": "인정전",
+    "reference" : "https://www.heritage.go.kr/heri/culturalHeritagePhoto/default/allView.do?sortType=rgst_dtm&sortOrdr=asc&pageIndex=1&pageUnit=5&pageNo=2_6_1_1&page=1&id=298&code_level_01=02&cultural_heritage=%EC%9D%B8%EC%A0%95%EC%A0%84",
+    "description": "행각의 홑처마는 왜식으로 모양만 꾸며낸 서까래이다."
+    },
+
+    {
+    "name": "일월오악도",
+    "category": "병풍",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["병풍"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%EC%9D%B8%EC%A0%95%EC%A0%84&searchCondition2=&ccbaKdcd=11&ccbaAsno=0002250000000&ccbaCtcd=11&ccbaCpno=1111102250000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_1_1&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=12&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": "일월오악도에는 음양을 뜻하는 해와 달이 있으며 이는 다시 왕과 왕비를 상징한다. 그 아래 다섯 개의 산봉우리는 우리나라의 동,서,남,북,중앙의 다섯 산을 가리키며 이는 국토를 의미한다. 이것은 임금이 중앙에서 사방을 다스리고, 음양의 이치에 따라 정치를 펼친다는 뜻을 담고 있기도 하다."
+    },
+   {
+    "name": "유리창",
+    "category": "유리창",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["유리창", "서양장신구"],
+    "reference" :[ "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%EC%9D%B8%EC%A0%95%EC%A0%84&searchCondition2=&ccbaKdcd=11&ccbaAsno=0002250000000&ccbaCtcd=11&ccbaCpno=1111102250000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_1_1&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=12&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": " 유리창을 비롯하여 전구나 커튼 등 서양 장신구가 설치되어 있는데, 이는 구한말 외국과의 수교 후 다양한 외래 문물이 들어 온 것이며, 1907년 순종이 덕수궁에서 창덕궁으로 이어한 후에 인정전의 실내바닥이 전돌에서 마루로 바뀌고, 전구가 설치되는 등 부분적인 변화가 일어났다."
+    },
+   {
+    "name": "전구",
+    "category": "전구",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["전구", "서양장신구"],
+    "reference" :[ "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%EC%9D%B8%EC%A0%95%EC%A0%84&searchCondition2=&ccbaKdcd=11&ccbaAsno=0002250000000&ccbaCtcd=11&ccbaCpno=1111102250000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_1_1&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=12&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": " 유리창을 비롯하여 전구나 커튼 등 서양 장신구가 설치되어 있는데, 이는 구한말 외국과의 수교 후 다양한 외래 문물이 들어 온 것이며, 1907년 순종이 덕수궁에서 창덕궁으로 이어한 후에 인정전의 실내바닥이 전돌에서 마루로 바뀌고, 전구가 설치되는 등 부분적인 변화가 일어났다."
+    },
+   {
+    "name": "커튼",
+    "category": "커튼",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["커튼","서양장신구"],
+     "reference" :[ "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%EC%9D%B8%EC%A0%95%EC%A0%84&searchCondition2=&ccbaKdcd=11&ccbaAsno=0002250000000&ccbaCtcd=11&ccbaCpno=1111102250000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_1_1&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=12&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": " 유리창을 비롯하여 전구나 커튼 등 서양 장신구가 설치되어 있는데, 이는 구한말 외국과의 수교 후 다양한 외래 문물이 들어 온 것이며, 1907년 순종이 덕수궁에서 창덕궁으로 이어한 후에 인정전의 실내바닥이 전돌에서 마루로 바뀌고, 전구가 설치되는 등 부분적인 변화가 일어났다."
+    },
+   {
+    "name": "봉황",
+    "category": "천장",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["천장", "봉황"],
+    "reference" : "https://m.blog.naver.com/chagov/221739253411",
+    "description": "보개천정에는 성군의 탄생이나 나라가 태평성대시 나타나는 봉황 조각이 보입니다. 답집 위에도 봉황 한 쌍이 그려져 있습니다. 채색이 아름답게 된 봉황이 구름 속을 날고 있는데, 꼬리가 더 화려한 수컷을 '봉', 암컷을 '황'이라고 합니다. "
+    },
+   {
+    "name": "사령도",
+    "category": "그림",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["사령도", "동물 그림"],
+    "reference" :[ "https://www.khs.go.kr/cop/bbs/selectBoardArticle.do?nttId=88222&bbsId=BBSMSTR_1008&pageIndex=1&pageUnit=10&searchtitle=title&searchcont=&searchkey=&searchwriter=&searchdept=&searchWrd=&searchCnd=&ctgryLrcls=&ctgryMdcls=&ctgrySmcls=&ntcStartDt=&ntcEndDt=&mn=NS_01_09_01", "20세기 창덕궁 인정전 당가唐家의 변형 과정 고찰 ‐ 일월오봉병, 봉황도, 사령도를 중심으로 ‐"],
+    "description": "태평성대를 상징하는 용·거북·봉황·기린 등 네 가지 상서로운 동물을 그린 사령도이다.사령도는 비단이나 종이에 그림을 그려 벽에 붙인 것이 아니라 목제판 위에 서양식 안료를 사용해 그린 것이다. 사령도는 봉황도의 금색 바탕과 같은 색상으로 바탕을 칠하고, 가장자리는 청색으로 테두리를 둘렀으며, 가운데 청색 능화문 안에 용, 거북, 봉황, 기린을 순서대로 그려 넣었다. 그동안 봉황도에 비해 사령도는 거의 주목을 받지 못했다 "
+    },
+  {
+    "name": "사자문",
+    "category": "조각",
+    "locations": "계단",
+    "side": "외부",
+    "keywords": ["사자무늬", "갈퀴", "이빨", "사자조각"],
+    "reference": ["https://www.kculture.or.kr/brd/board/388/L/menu/443?brdType=&bbIdx=441&searchCategory5=366&searchCategory=&rootCate=279&searchField=titlecontent&searchText=%EC%B0%BD%EB%8D%95%EA%B6%81"],
+    "description": "창덕궁 인정전 계단에 조각된 사자무늬이다. 입을 살짝 벌려 이빨을 드러내고 있으며, 얼굴 뒤쪽으로는 엉클어진 갈퀴가 둥글게 말려 머리 뒤쪽을 향하고 있어 당당한 위엄과 생동감을 드러낸다. "
+  },
+  {
+    "name": "수막새",
+    "category": "기와",
+    "locations": "인정전",
+    "side" : "지붕",
+    "keywords": ["기와", "수막새", "봉황"],
+    "reference" : [""],
+   "description": "봉황은 상서로운 기운을 상징하는 상상의 새로 태평성대를 의미하며 왕비에 비유되었다. 꼬리의 깃털이 펼쳐져 있으며 얼굴부분은 명확하지 않지만 봉황의 자태를 표현하기에 충분하다."
+    },
+  {
+    "name": "어탑",
+    "category": "장식",
+    "locations": "인정전",
+    "side" : "내부",
+    "keywords": ["연꽃", "어탑"],
+    "reference" : ["https://www.kculture.or.kr/brd/board/388/L/menu/443?brdType=&bbIdx=442&searchCategory5=366&searchCategory=&rootCate=282&searchField=titlecontent&searchText=%EC%B0%BD%EB%8D%95%EA%B6%81"],
+   "description": "연꽃은 불교를 상징하는 꽃이지만 다양한 유물에 장식문양으로 활용되었다. 연꽃은 생명이나 번영을 상징하며 여유로움 등을 의미하기도 한다. 연꽃이 활짝 핀 모습을 꽃잎의 모양으로, 꽃잎은 사방으로 펼쳐져 있으며 끝부분은 뾰족하다. 이중의 선으로 연꽃잎을 강조하여 표현한 모습이다."
+    }
+
+
+]

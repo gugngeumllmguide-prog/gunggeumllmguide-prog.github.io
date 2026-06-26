@@ -1,0 +1,83 @@
+[
+  {
+    "name": "현판",
+    "category": "현판",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["간판", "현판","연경당"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "‘연경(演慶)’은 경사가 널리 퍼진다는 뜻이다."
+  },
+  {
+    "name": "사랑채",
+    "category": "건물",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["사랑채", "연경당", "굴도리집"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "원래 연경당이라 불리던 건물로, 정면 6칸, 측면 2칸의 굴도리집 구조이다. 장대석 기단과 사다리꼴 초석 위에 네모기둥(각기둥)을 세웠으며 누마루, 대청, 방 등으로 구성되어 안채와 연결된다."
+  },
+  {
+    "name": "선향재",
+    "category": "건물",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["선향재", "연경당", "서재"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "사랑채의 오른편에 위치하고 있으며, 당시 사대부 집의 서재 구실을 하던 건물이다."
+  },
+  {
+    "name": "화계",
+    "category": "조경",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["화계", "연경당", "정원"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "선향재 뒤편의 경사진 언덕에 정성스럽게 단을 쌓아 만든 계단식 장독대 겸 정원 시설이다."
+  },
+  {
+    "name": "안채",
+    "category": "건물",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["안채", "연경당", "납도리"],
+    "reference" : [""],
+    "description": "평대문인 수인문을 통해 출입하는 공간이다. 사랑채와 담장으로 구분되어 있지만 만(卍)자 형으로 서로 연결되어 있으며, 사랑채와 달리 납도리 구조에 각기둥을 사용하였다."
+  },
+  {
+    "name": "농수정",
+    "category": "정자",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["농수정", "연경당", "정자"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "선향재 뒤편에 위치한 화계의 가장 높은 곳에 운치 있게 배치된 작은 정자이다."
+  },
+  {
+    "name": "장양문",
+    "category": "문",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["장양문", "대문"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "연경당의 주요 진입 문이다. 사랑채로 통하는 우측의 솟을대문인 '장양문'이다."
+  },
+    {
+    "name": "수인문",
+    "category": "문",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["수인문", "대문"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "연경당의 주요 진입 문이다.  안채로 통하는 좌측의 평대문인 '수인문'이다."
+  },
+      {
+    "name": "정추문",
+    "category": "문",
+    "locations": "연경당",
+    "side" : "외부",
+    "keywords": ["정추문", "대문"],
+    "reference" : ["https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=1121117700000"],
+    "description": "연경당의 주요 진입 문이다. 안마당과 사랑마당을 경계 짓는 담장 가운데에 위치한 '정추문'이다."
+  }
+]
