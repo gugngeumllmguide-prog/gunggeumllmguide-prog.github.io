@@ -12,7 +12,7 @@ from datetime import datetime
 
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
-client = genai.Client(api_key="AQ.Ab8RN6Jq0uDfEvVlwwYojdz7VAK7uZtDVfydh_zySPBlM9qC-g")
+client = genai.Client(api_key="")
 model_id = "gemini-3.5-flash"
 
 
@@ -567,4 +567,4 @@ if __name__ == "__main__":
     fetch_gung_data()
     load_local_element_kb()
     print("[서버] 준비 완료 — https://carefully-deceptive-unbutton.ngrok-free.dev")
-    # app.run(host="0.0.0.0", port=8000, debug=False)
+    app.run(host="0.0.0.0", port=8000, debug=False)
