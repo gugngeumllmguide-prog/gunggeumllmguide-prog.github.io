@@ -1,0 +1,68 @@
+
+[
+
+   {
+    "name": "대청",
+    "category": "마루",
+    "locations": "대조전",
+    "side" : "",
+    "keywords": ["마루", "대청"],
+    "reference" : ["근대 창덕궁 주요 전각의 공간과 장식 특성"],
+    "description": "대조전은 홀 형태의 대청에 샹들리에를 설치하고, 전통 창호문은 유리문으로 교체되어 순종황제의 접견 공간으로 꾸며졌다."
+    },
+  {
+    "name": "익각",
+    "category": "건물",
+    "locations": "대조전",
+    "side" : "동쪽",
+    "keywords": ["익각, 동쪽 전각"],
+    "reference" : ["근대 창덕궁 주요 전각의 공간과 장식 특성"],
+    "description": " 양 익각(翼閣)의 동·서 온돌은 순종 내외의 생활 공간으로 의복실, 목욕탕, 화장실, 이발소 등이 새롭게 마련되었으며, 동쪽 구역이 황제의 공간으로 주체에 따라 공간이 구성되고 배치되었다. 대조전의 중심 공간은 접견의 공간이었고, 대청을 중심으로 황제와 황후의 생활 공간이 정확히 구분되면서 정무와 휴식이 같은 전각에서 이루어졌다. "
+    },
+    {
+    "name": "익각",
+    "category": "건물",
+    "locations": "대조전",
+    "side" : "서쪽",
+    "keywords": ["익각, 서쪽 전각"],
+    "reference" :[ "근대 창덕궁 주요 전각의 공간과 장식 특성"],
+    "description": " 양 익각(翼閣)의 동·서 온돌은 순종 내외의 생활 공간으로 의복실, 목욕탕, 화장실, 이발소 등이 새롭게 마련되었으며, 서쪽 구역은 황후의 공간으로 주체에 따라 공간이 구성되고 배치되었다. 대조전의 중심 공간은 접견의 공간이었고, 대청을 중심으로 황제와 황후의 생활 공간이 정확히 구분되면서 정무와 휴식이 같은 전각에서 이루어졌다. "
+    },
+
+   {
+    "name": "봉황도",
+    "category": "그림",
+    "locations": "대조전",
+    "side" : "내부",
+    "keywords": ["봉황도", "새 그림", "벽화"],
+    "reference" : ["https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?psgudSn=367765", "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?pageNo=1_1_1_1&ccbaCpno=4411102420000"],
+    "description": "동쪽 벽 <봉황도>는 왕실이 후원한 미술교육기관인 서화미술원에서 교육받은 대표적 신진 화가인 오일영과 이용우에 의해 1920년경 제작되어 대조전에 부착된 벽화. 채색 화조화의 전통을 계승하고 있으며, 형상의 표현과 기술묘사에 충실한 그림이다. 10마리의 봉황과 바위, 폭포, 모란, 오동나무 등을 화려히 표현해 왕실 생활공간에 어울리게 했다."
+    },
+   {
+    "name": "백학도",
+    "category": "그림",
+    "locations": "대조전",
+    "side" : "내부",
+    "keywords": ["백학도", "흰새", "벽화"],
+    "reference" : ["https://www.gogung.go.kr/gogung/pgm/psgudMng/view.do?psgudSn=367765", "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1&region=1&searchCondition=%EB%8C%80%EC%A1%B0%EC%A0%84&searchCondition2=&ccbaKdcd=79&ccbaAsno=0002430000000&ccbaCtcd=11&ccbaCpno=4411102430000&ccbaCndt=&ccbaLcto=&stCcbaAsdt=&endCcbaAsdt=&header=view&returnUrl=%2Fheri%2Fcul%2FculSelectViewList.do&pageNo=1_1_1_1&p=multiSch&sortType=&sortOrd=&sngl=Y&listRow=&s_kdcdArr=00&s_ctcdArr=00&ccbaPcd1Arr=99&ccbaGcodeArr=00"],
+    "description": "왕실이 후원한 미술교육기관인 서화미술원에서 교육받은 대표적 신진 화가인 김은호에 의해 1920년경 제작되어 대조전에 부착된 벽화로, 채색 화조화의 전통을 계승하고 있으며, 형상의 표현과 기술묘사에 충실하여 화려한 구성을 담고 있다.  16마리의 백학과 소나무, 달, 구름, 돌, 물, 영지, 모란 등의 십장생을 표현했다. 궁중 벽화로는 다른 5점과 더불어 유일하게 현존하고 있으며, 단순한 장식이 아닌 전각의 기능과 연계되어 추락한 왕실의 안녕 및 권위의 회복, 왕실의 역량을 재확인하는 길상적, 상징적 의미를 갖고 있어 역사적, 예술적 가치가 있다. 다만 제작자인 김은호는 「일제강점하 반민족행위 진상규명에 관한 특별법」에 따른 친일반민족행위진상규명 보고서에 포함된 인물이다."
+    },
+   {
+    "name": "소맷돌",
+    "category": "계단",
+    "locations": "대조전",
+    "side" : "외부",
+    "keywords": ["소맷돌", "계단", "호랑이"],
+    "reference" :["https://www.kculture.or.kr/brd/board/388/L/menu/443?brdType=&bbIdx=428&searchCategory5=366&searchCategory=&rootCate=279&searchField=titlecontent&searchText=%EC%B0%BD%EB%8D%95%EA%B6%81"],
+    "description": " 호랑이는 복의 기운을 상징하며 벽사의 기능을 하는 동물로 용맹함을 의미한다. 계단의 소맷돌에 표현된 호랑이는 눈은 볼록하게 보이며 두 발은 가지런하게 모으고 있는 모습을 하고있다. 눈에서는 용맹스러운 기운을 느낄 수 있으며 큼직한 발은 듬직하게 나타내었다 "
+    },
+  {
+    "name": "잎사귀문",
+    "category": "난간",
+    "locations": "대조전",
+    "side" : "외부",
+    "keywords": ["잎사귀", "난간"],
+    "reference" :["https://www.kculture.or.kr/brd/board/388/L/menu/443?brdType=&bbIdx=427&searchCategory5=366&searchCategory=&rootCate=282&searchField=titlecontent&searchText=%EC%B0%BD%EB%8D%95%EA%B6%81"],
+    "description": "계단에 조각된 사자무늬를 사자의 얼굴과 앞발을 중심으로 간략하게 디자인한 모습이다. 얼굴 뒤쪽으로 엉클어진 갈퀴가 보이며 이빨을 드러내고 있어 당당한 위엄을 드러내고 있다."
+    }
+]
