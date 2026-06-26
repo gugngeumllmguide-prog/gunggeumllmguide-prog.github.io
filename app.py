@@ -19,8 +19,9 @@ model_id = "gemini-3.5-flash"
 user_question_history = []
 response_history = []
 
-CACHE_FILE = "kb_cache.json"
-LOCAL_KB_FILE = "local_kb.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CACHE_FILE = os.path.join(BASE_DIR, "kb_cache.json")
+LOCAL_KB_FILE = os.path.join(BASE_DIR, "local_kb.json")
 _kb_cache = None
 _local_kb = None
 
@@ -32,11 +33,9 @@ LOG_FILE = os.path.join(AUDIO_BASE_DIR, "user_study_log.csv")
 if not os.path.exists(IMAGE_DIR):
     os.makedirs(IMAGE_DIR)
 
+if not os.path.exists(AUDIO_BASE_DIR):
+    os.makedirs(AUDIO_BASE_DIR)
 
-
-
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def load_local_element_kb():
@@ -361,9 +360,15 @@ def log_interaction(session_id, location, question, answer, type_, image_path=""
 
 
 app = Flask(__name__, static_folder=BASE_DIR, static_url_path="")
-CORS(app)
+ALLOWED_ORIGINS = [
+    "https://gunggeumllmguide-prog-github-io.onrender.com",
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+]
+CORS(app, resources={r"/*": {"origins": ALLOWED_ORIGINS}}, supports_credentials=True)
+
 @app.after_request
-def add_ngrok_header(response):
+def add_headers(response):
     response.headers["ngrok-skip-browser-warning"] = "true"
     return response
 
@@ -419,6 +424,8 @@ def ask():
         try:
             img_data = base64.b64decode(image_b64.split(",")[-1])
             save_dir = session_dir if session_dir else IMAGE_DIR
+            if not os.path.exists(save_dir):
+                os.makedirs(save_dir, exist_ok=True)
             fname = os.path.join(save_dir, f"img_{datetime.now().strftime('%H%M%S')}.jpg")
             with open(fname, "wb") as f:
                 f.write(img_data)
@@ -512,8 +519,8 @@ def transcribe():
         audio_data = base64.b64decode(audio_b64.split(",")[-1])
         ts = datetime.now().strftime("%H%M%S")
         ext = "ogg" if "ogg" in mime_type else "mp4" if "mp4" in mime_type else "webm"
-        temp_fname = f"temp_audio_{ts}.{ext}"
-        temp_mp3 = f"temp_audio_{ts}.mp3"
+        temp_fname = os.path.join("/tmp", f"temp_audio_{ts}.{ext}")
+        temp_mp3 = os.path.join("/tmp", f"temp_audio_{ts}.mp3")
         save_fname = os.path.join(session_dir, f"audio_{ts}.mp3")  # 항상 mp3
 
         with open(temp_fname, "wb") as f:
